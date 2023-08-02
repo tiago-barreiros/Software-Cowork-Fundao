@@ -52,7 +52,7 @@ da ética, mas também oferecer uma novidade ao mercado.
 
 ### Ferramentas e Tecnologias
 
-[![JavaScript][JavaScript]][JavaScript-url] [![Figma][Figma]][Figma-url]
+[![JavaScript][JavaScript]][JavaScript-url] [![React][React]][React-url] [![React-Native][React-Native]][React-Native-url] [![Node.js][Node.js]][Node.js-url] [![HTML5][HTML5]][HTML5-url] [![CSS3][CSS3]][CSS3-url] [![Tailwind-CSS][Tailwind-CSS]][Tailwind-CSS-url] [![Bootstrap][Bootstrap]][Bootstrap-url] [![Material-UI][Material-UI]][Material-UI-url] [![npm][npm]][React-url] [![Firebase][Firebase]][Firebase-url] [![Figma][Figma]][Figma-url] [![JetBrains][JetBrains]][JetBrains-url] [![Creately][Creately]][Creately-url] [![Linux][Linux]][Linux-url] [![LaTeX][LaTeX]][LaTeX-url] [![Overleaf][Overleaf]][Overleaf-url]
 
 <!-- 
 [![C++][C++]][C++-url] [![JetBrains][JetBrains]][JetBrains-url] [![LaTeX][LaTeX]][LaTeX-url] [![Overleaf][Overleaf]][Overleaf-url]
@@ -696,3 +696,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [MySQL-Workbench-url]: https://www.mysql.com/products/workbench/
 [Jakarta-EE]: https://img.shields.io/badge/Jakarta_EE-007396?style=for-the-badge&logo=java&logoColor=white
 [Jakarta-EE-url]: https://jakarta.ee/
+[React-Native]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-Native-url]: https://reactnative.dev/
+[Tailwind-CSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-CSS-url]: https://tailwindcss.com/
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com/
+[Material-UI]: https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
+[Material-UI-url]: https://material-ui.com/
+[npm]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+[npm-url]: https://www.npmjs.com/
